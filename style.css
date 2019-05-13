@@ -16,3 +16,6 @@ figure > img {
 figure > video#donald-gif {
 	width: 100%;
 }
+figure > figcaption {
+	text-align: center;
+}
