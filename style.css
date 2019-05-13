@@ -1,0 +1,18 @@
+.contacts li a.twitter:hover {
+  color: #38a1f3;
+}
+.contacts li a.instagram:hover {
+  color: #833ab4;
+}
+.contacts li a.danger:hover {
+  color: #fd1d1d;
+}
+.avatar-wrapper > object {
+	width: 100%;
+}
+figure > img {
+	width: 100%;
+}
+figure > video#donald-gif {
+	width: 100%;
+}
